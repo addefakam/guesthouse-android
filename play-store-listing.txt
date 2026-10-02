@@ -1,0 +1,97 @@
+# ════════════════════════════════════════════════════════════════════
+# Play Store Listing — Guesthouse Manager
+# ════════════════════════════════════════════════════════════════════
+
+App name: Guesthouse Manager
+Package ID: com.guesthouse.manager
+Category: Business
+Pricing: Free
+Content rating: Everyone
+
+# ── Short description (80 chars max) ──
+
+Manage your guesthouse: reservations, check-in/out, rooms, guests, stock & expenses.
+
+# ── Full description (4000 chars max) ──
+
+Guesthouse Manager is a comprehensive management tool for guesthouse operators and staff. Manage your entire property from your phone or tablet — no computer required.
+
+KEY FEATURES:
+
+🏠 RESERVATIONS
+• Create and manage reservations
+• One-tap check-in and check-out
+• Early checkout support
+• Bulk actions (check-in/out multiple reservations)
+• Payment recording (cash, transfer, card, mobile)
+• QR code scanner for fast ID entry
+
+🛏️ ROOMS
+• Real-time room availability
+• 10 room types (Single, Double, Twin, Suite, Deluxe, King, etc.)
+• Room status tracking (Available, Occupied, Reserved, Maintenance)
+• Floor and capacity management
+
+👥 GUEST MANAGEMENT
+• Guest database with search
+• National ID support (Ethiopian Fayda ID)
+• Guest history and stay tracking
+• VIP guest flagging
+• Nationality tracking (197 countries)
+
+📦 STOCK MANAGEMENT
+• Inventory tracking with predefined items
+• Restock with automatic expense recording
+• Stock movement audit log
+• Low-stock alerts
+• Category management (Linen, Toiletries, Beverage, etc.)
+
+💰 EXPENSES
+• Track all business expenses
+• Categorize with colors and icons
+• Payment method tracking
+• Tax amount recording
+• Auto-generated expenses from stock restocks
+
+📊 REPORTS
+• Revenue and expense tracking
+• Occupancy rate analytics
+• Daily revenue charts
+• Expense breakdown by category
+• Export to CSV/Excel
+
+🔐 SECURITY
+• Staff activity logging (who did what, when, from which IP)
+• Role-based access control
+• Operator and staff permission management
+• Secure authentication
+
+LANGUAGES:
+• English
+• አማርኛ (Amharic)
+• Afaan Oromoo (Oromo)
+
+WHO IS THIS FOR?
+• Guesthouse owners managing properties remotely
+• Front-desk staff handling day-to-day operations
+• Guesthouse chains with multiple properties
+• Hotels, lodges, and resorts in Ethiopia
+
+PRIVACY:
+• All data is securely stored and encrypted
+• Staff actions are logged for accountability
+• No personal data is shared with third parties
+• See our privacy policy for details
+
+SUPPORT:
+For help, contact your system administrator or visit the support page in the app.
+
+# ── Keywords (for ASO — App Store Optimization) ──
+
+guesthouse, hotel, reservation, booking, check-in, hospitality, Ethiopia, Bishoftu, property management, front desk, inventory, stock
+
+# ── App icon specifications ──
+
+Play Store icon: 512×512 pixels, 32-bit PNG
+Feature graphic: 1024×500 pixels, PNG/JPG
+Phone screenshots: 1080×1920 pixels, PNG (minimum 2, maximum 8)

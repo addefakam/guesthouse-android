@@ -1,0 +1,27 @@
+{
+  "appId": "com.guesthouse.manager",
+  "appName": "Guesthouse Manager",
+  "webDir": "www",
+  "server": {
+    "url": "https://guesthousewithpolicemodule-git-4dab70-addefakam-9199s-projects.vercel.app/m",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#4f46e5",
+      "showSpinner": false,
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#4f46e5"
+    },
+    "Keyboard": {
+      "resize": "body",
+      "style": "DARK",
+      "resizeOnFullScreen": true
+    }
+  }
+}
